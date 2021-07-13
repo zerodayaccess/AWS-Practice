@@ -3,7 +3,7 @@
 
 Hello World!
 ```text
-This will be an AWS Practice Lab session compilation to gain hands-on experience 
-in planning, developing and deploying cloud-based solutions and infrastructures 
-based off various use-cases.
+This will be a Practice Lab & hands-on training compilation for gained experience 
+in planning, developing and deploying well-architected infrastructure and security 
+reliant on various use-case scenarios.
 ```
