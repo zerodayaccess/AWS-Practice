@@ -1,5 +1,5 @@
-## AWS-Practice
-# AWS-Labs & Experiences
+# AWS-Practice
+## AWS-Labs & Experiences
 
 Hello World!
 ```text
