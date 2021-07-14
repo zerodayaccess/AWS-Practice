@@ -1,4 +1,4 @@
-# CV
+# Practicals
 ## AWS-Labs & Experiences
 
 Hello World!
