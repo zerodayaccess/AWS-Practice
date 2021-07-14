@@ -12,3 +12,5 @@ reliant for various use-case scenarios.
 ---
 
 `and other practical exercises`
+
+*Example:* [Markdown Intro](https://raw.githubusercontent.com/zerodayaccess/markdown.github.io/main/Run-as.md)
