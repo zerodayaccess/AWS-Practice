@@ -15,7 +15,7 @@ reliant for various use-case scenarios.
 
 ---
 
-### Example  
+### Example:  
 [![Load Image](https://raw.githubusercontent.com/zerodayaccess/mdchichioco/main/images/markd.png "Visit the Wiki")](https://en.wikipedia.org/wiki/Markdown)
 
 # Markdown Introduction
